@@ -1,6 +1,6 @@
 # Alfa Wolf App
 ## Proyecto Final de Tópicos Especiales
-INTEGRANTES DE GRUPO  :woman::woman:
+INTEGRANTES DE GRUPO  :woman::woman::man::man:
 - Jessica Amoguimba
 - Samanta Gómez
 - Ahilton Guaras
@@ -12,45 +12,11 @@ INTEGRANTES DE GRUPO  :woman::woman:
 En este README contiene un explicativo del la aplicación de realizada con la ayuda de Android Studio esta App trata de una aplicación que almacena la data en Firebase y hace manipulables dichos datos de forma instantanea..
 
 ## Acerca del proyecto ##
-### Comandos
-Ejecutaremos los siguientes comandos :
-```
-- Instalar ionic 
-npm install -g @ionic/cli
 
-- Ejecutar Ionnic
-ionic serve
-ionic serve -l
-
-- Generar nueva página
-ionic generate page nombrePage 
-
-- Crear el servicio
-ionic g service services/nombreservicio
-
-- Instalar Firebase
-npm install firebase @angular/fire --save
-
-- Cordova geolocalización
-ionic cordova plugin add cordova-plugin-geolocation
-npm install --save @ionic-native/geolocation
-
-- Generar Icono y SplashScreen
-ionic cordova resources
-
-- Intalar Cordova
-npm install -g ionic cordova
-
-- Generar APK (**Nota:** previo a la generación de la APK, agregar los paths correspondientes a SDK, JDK y Gradle en las variables de entorno > Variables del Sistema > PATH)
-ionic cordova build --release android
-
-
-
-```
-## Credenciales 
+## Conexión con Firebase 
 
 - Firebase
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/FirebaseCredenciales.jpeg)
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/conectarFireBase.jfif)
 
 - API
 	http://www.omdbapi.com/
