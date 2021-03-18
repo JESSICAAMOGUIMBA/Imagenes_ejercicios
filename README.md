@@ -1,19 +1,17 @@
-#  Movie App
-## Proyecto final de Tópicos Especiales
+# Alfa Wolf App
+## Proyecto Final de Tópicos Especiales
 INTEGRANTES DE GRUPO  :woman::woman:
-- Andrea Quishpe
-- Wendy Soto
+- Jessica Amoguimba
+- Samanta Gómez
+- Ahilton Guaras
+- Gabriel Ibujés
 
 
 # README #
 
-En este README contiene un explicativo del la aplicación de realizada en Ionic acerca una aplicación con consumo de una API de películas.
+En este README contiene un explicativo del la aplicación de realizada con la ayuda de Android Studio esta App trata de una aplicación que almacena la data en Firebase y hace manipulables dichos datos de forma instantanea..
 
 ## Acerca del proyecto ##
-### Explicación ###
-El repositorio contiene el proyecto **proyecto_finalTopicos
-
-
 ### Comandos
 Ejecutaremos los siguientes comandos :
 ```
@@ -119,8 +117,4 @@ Este código representa los métodos de Geolocalización, e Historial de pelícu
 ### Referencias ###
     1. https://ionicacademy.com/ionic-4-app-api-calls/
     2. https://www.youtube.com/watch?v=REgMMe2fYKA
-    3. https://www.nigmacode.com/ionic/Exportar-y-firmar-APK-en-Ionic
- 	4. https://gradle.org/install/
- 	5. https://ionicacademy.com/ionic-4-app-api-calls/
- 	6. http://www.omdbapi.com/
-   
+    3. 
