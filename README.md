@@ -1,4 +1,7 @@
 # Alfa Wolf App
+
+
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/EPN_logo_big.jpg)
 ## Proyecto Final de Tópicos Especiales
 INTEGRANTES DE GRUPO  :woman::woman::man::man:
 - Jessica Amoguimba
