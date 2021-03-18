@@ -48,35 +48,46 @@ La aplicación nos permitirá iniciar sesión como usuarios nuevos registrandono
 | ------------- | ------------- | ------------- | ------------- |
 |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/inicioSesion.jfif) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/inicioHome.jfif)  |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/ingresoUsuarioExistente.jfif)  |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/registroAlimentos.jfif) |
 ## Código:
-En la siguiente imagen se muestran las páginas creadas.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/paginas.JPG) 
+En la siguiente imagen se muestra el código usado para crear el login de la App
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/codigoLoginUsuario.jfif) 
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/codigoLogin.jfif) 
 
-En el siguiente código se puede observar la conexión con la API
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/servicio%20pelis.JPG)
-
-
-Esta imagen se puede apreciar la conexión con la Base de Datos.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/credenciales_fire.JPG)
-
-A continuación se describen los métodos de Autenticación, Registro y Cierre de Sesión.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/firebase%20auth.JPG)
+En el siguiente código se debe colocar las dependencias para el proyecto
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/dependencias.jfif)
 
 
-Esta fracción de código representa el método de búsqueda de películas.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/movie_page.JPG)
+Esta imagen se puede apreciar el código que se usó pra el CRUD
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/crud2.jfif)
+
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/crud1.jfif)
 
 
-
-
-Este código representa los métodos de Geolocalización, e Historial de películas buscadas por usuario. Para este método es necesario el Id del usuario ya que de esta forma se podrá guardar su historial de búsquedas.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/movie_details.JPG)
-
+Esta fracción de código representa el seteo de los datos en la BDD
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Captutas/setearDatos.jfif)
 
 ## Video en Yotube :movie_camera:
  
 
 
 ### Referencias ###
-    1. https://ionicacademy.com/ionic-4-app-api-calls/
-    2. https://www.youtube.com/watch?v=REgMMe2fYKA
-    3. 
+- REGISTRO USUARIO
+https://www.youtube.com/watch?v=xwhEHb_AZ6k
+- LOGIN
+https://www.youtube.com/watch?v=IEc44_CxoyY&t=1046s
+
+https://es.stackoverflow.com/questions/105101/pasar-a-otro-activity-android-studio
+
+- DIETAS
+https://mejorconsalud.as.com/7-menus-diarios-una-dieta-saludable/
+
+- CALENDARIO
+https://www.youtube.com/watch?v=quR2UW-VkU0&t=14s
+
+- IMC
+https://www.seedo.es/index.php/pacientes/calculo-imc
+
+- MULTIPLICACION
+https://www.androfast.com/2018/02/ingresar-dos-numeros-realizar-las-operaciones-sumarrestamultiplicardividir.html
+
+- CHECKLIST
+https://www.develou.com/checkbox-android/
